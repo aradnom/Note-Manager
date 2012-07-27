@@ -1,0 +1,9 @@
+## paths
+
+design/**/*
+test/**/*
+
+## files
+
+*.psd
+*.bak
