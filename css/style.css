@@ -109,7 +109,7 @@ h1 {
 	vertical-align: top;
     height: 100%;
     min-height: 100px;
-    margin: 0 36px 0 90px;
+    margin: 0 36px 0 105px;
 }
 
 .note-zone.note-zone-collapsed {
@@ -376,14 +376,12 @@ h1 {
 }
 
 .note-title .title-date {
-    margin: 2px 0 0 5px;
     position: absolute;
-    left: -88px;
-    width: 70px;
-    background: #EE6B14;
-    padding: 4px;
-    top: 0px;
-    border-right: 4px solid #8E400C;
+    left: -97px;
+    width: 96px;
+    background: url("../img/note_title_date_bg.png") no-repeat;
+    padding: 4px 0px 4px 16px;
+    top: 3px;
 }
 
 .note .enter-drop {

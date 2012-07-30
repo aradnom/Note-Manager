@@ -2,232 +2,232 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b22f070-a41f-4a51-84eb-16023fd36a9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/test/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/MongoMe.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/deftone-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/redo.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/menu.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/note_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/menu_button_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/go.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/new_subnote_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/link-date-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/undo.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\new_zone_menu.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/MongoMe.class.php" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Bold-webfont.eot" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/index.psd.bak" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/icons.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/menu_bg_orange.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/ez_sql_core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/white_fill_40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header_hl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/request.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/index.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/js/Subnote.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zone_footer_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zone_footer_bg_nohl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/deftone-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Thin-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/defaulticon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/undo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/close_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/arrow_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/corner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/edit_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/add_orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/arrow_right_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/close_10_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/zone_header_bg_nohl_faded.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BEBAS___-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/new_subnote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/menu_button_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer_hl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/shortcut_icon_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deftone-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/header_hl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/add_orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/menu_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/close_white_11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/notes.txt" />
-      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\test\index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/new_zone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mootools-more-1.4.0.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/close_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/js/Note.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/undo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/input_bg.png" />
-      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\notes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/note_drop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/js/mootools-more-1.4.0.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/input_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Light-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\menu_bg_orange.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/inc/ez_sql_pdo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/menu_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/inc/ez_sql_core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/js/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/footer_hl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/note_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/arrow_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/undo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/defines_and_functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/link-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/arrow_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mootools-core-1.4.5-full-nocompat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/shortcut_icon_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/close_orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/new_link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BEBAS___-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BEBAS___-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/bugs.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/note_title_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/BEBAS___-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Light-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Thin-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/note_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/corner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/arrow_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/note_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/zone_header_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/inc/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/redo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/zone_header_bg_nohl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/close_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/close_white_11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/new_subnote_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Thin-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link-date-shadow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/linkRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/new_subnote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zone_header_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/submit_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zone_header_bg_nohl_faded.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/arrow_right_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/edit_white_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/js/Shell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/redo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/link_menu_bg.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/menus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/deftone-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Light-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/logo.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zone_header_bg_nohl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Thin-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/inc/request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/new_zone_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/note_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/BEBAS___-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/js/menus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/footer_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/ez_sql_pdo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/js/mootools-core-1.4.5-full-nocompat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/BEBAS___-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/note_title_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zone_footer_bg_nohl_faded.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/BEBAS___-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/link-date-shadow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/indexOld.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/new_zone_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Thin-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/zone_footer_bg_nohl_faded.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/arrow_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/arrow_left_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Light-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/new_zone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/zone_footer_bg_nohl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link_menu_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/white_fill_40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/notes.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/redo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/note_drop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/edit_white_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/note_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Light-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/submit_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/defaulticon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Light-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/inc/defines_and_functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/new_link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/new_link_icon.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/zone_footer_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/index.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Light-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/close_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link-date-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/inc/MongoMe.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Light-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Subnote.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/go.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/img/buttons/edit_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/deftone-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bugs.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deftone-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/menu_bg_orange.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/inc/linkRequest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BEBAS___-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close_10_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Thin-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/js/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\js\search.js" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\arrow_left_16.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\note_title_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\deftone-webfont.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/arrow_left_16.png" />
-      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/close_orange.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Thin-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Note.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deftone-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/css/fonts/YanoneKaffeesatz-Thin-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/error.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BEBAS___-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BEBAS___-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zone_footer_bg_nohl.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Thin-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Subnote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/arrow_up.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\note_bg.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\close_white_11.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\BEBAS___-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\deftone-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\corner.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\inc\ez_sql_core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/auth.php" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\arrow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/close_white_11.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\js\Note.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deftone-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/js/Functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bak/js/events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\new_link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/close_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zone_header_bg_nohl.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\deftone-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\js\Functions.js" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Bold-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/note_drop.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\close_10_white.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\js\Shell.js" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\BEBAS___-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\zone_header_bg_nohl_faded.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\test\index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/defines_and_functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/new_subnote_menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\note_add.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\new_subnote_menu.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\shortcut_icon_bg.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\undo.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\add.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Shell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/check.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Thin-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\header_hl.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\zone_footer_bg_nohl_faded.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\edit_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/note_title_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bugs.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/add_orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\test.php" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Light-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/go.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Thin-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Thin-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/new_link_icon.psd" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\js\mootools-core-1.4.5-full-nocompat.js" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\input_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mootools-core-1.4.5-full-nocompat.js" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\white_fill_40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/submit_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\link-date-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\inc\request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/note_bg.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\arrow_up.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\inc\ez_sql_pdo.php" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Thin-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\error.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\zone_header_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/input_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/new_zone.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\defaulticon.ico" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\close_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/icons.psd" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\note_drop.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\zone_footer_bg_nohl.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\test.php" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Light-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/note_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\inc\defines_and_functions.php" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\link-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/request.js" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\inc\MongoMe.class.php" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Light-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/new_link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link-date-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer_hl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zone_header_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Light-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BEBAS___-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Thin-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/menu_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Bold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/ez_sql_pdo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/shortcut_icon_bg.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\footer_hl.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\close_orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Bold-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/arrow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\js\request.js" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\link_menu_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/arrow_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/edit_white.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/close_orange.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\menu_button_bg.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\arrow_right_16.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\js\events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/ez_sql_core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/linkRequest.php" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\close_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Thin-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zone_footer_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/new_zone_menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Thin-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\BEBAS___-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/notes.iml" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Light-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\go.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\js\menus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Light-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\notes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/arrow_right_16.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/new_subnote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/edit_white_10.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\link-date-shadow.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\inc\auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/search.js" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\zone_footer_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link_menu_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close_10_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/logo.psd" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\BEBAS___-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\test\index.php" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\footer_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/undo.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\zone_header_bg_nohl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/arrow_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/footer_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Light-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\menu_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zone_header_bg_nohl_faded.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mootools-more-1.4.0.1.js" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Bold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/note_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/BEBAS___-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\inc\linkRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/link-date-shadow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/corner.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\js\mootools-more-1.4.0.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/index.psd" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\note_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/white_fill_40.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\new_zone.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\new_subnote.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Light-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\js\Subnote.js" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\notes.txt" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\add_orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deftone-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\close_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/menu_bg_orange.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/defaulticon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deftone-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\deftone-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/buttons/menu_button_bg.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\arrow_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header_hl.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\css\fonts\YanoneKaffeesatz-Regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/deftone-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/indexOld.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\submit_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Note.js" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\img\buttons\edit_white_10.png" />
+      <change type="NEW" beforePath="" afterPath="E:\xampp\htdocs\notes\bak\bugs.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zone_footer_bg_nohl_faded.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/YanoneKaffeesatz-Bold-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/index.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/add.png" />
     </list>
     <ignored path="bookmarkcloud.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -256,7 +256,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="23" selection-start="2742" selection-end="2742" vertical-scroll-proportion="-10.576923">
+            <state line="71" column="23" selection-start="2742" selection-end="2742" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -265,7 +265,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="789" column="1" selection-start="16833" selection-end="16833" vertical-scroll-proportion="0.7234042">
+            <state line="111" column="24" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.83469725">
               <folding />
             </state>
           </provider>
@@ -319,7 +319,7 @@
       <file leaf-file-name="Note.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/Note.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="268" column="53" selection-start="8785" selection-end="8785" vertical-scroll-proportion="0.0">
+            <state line="261" column="33" selection-start="8494" selection-end="8494" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -398,8 +398,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="552" />
-    <option name="y" value="43" />
+    <option name="x" value="487" />
+    <option name="y" value="46" />
     <option name="width" value="1309" />
     <option name="height" value="829" />
   </component>
@@ -504,16 +504,16 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="true" />
-    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
-    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="options.lastSelected" value="web.server" />
+    <property name="recentsLimit" value="5" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
   </component>
   <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_TIMESTAMP" serverName="notes" serverId="8f5fd11a-afac-4780-b88e-0299237023ff">
     <servers>
@@ -560,6 +560,13 @@
         <option name="PhingTarget" enabled="false" />
       </method>
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="626565b6-d22e-4799-bf5b-bd4cbc904a34" server_name="bookmarkcloud">
       <method>
         <option name="FtpUpload" enabled="false">
@@ -568,13 +575,6 @@
         </option>
         <option name="PhingTarget" enabled="false" />
       </method>
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method />
     </configuration>
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="PHP Script.linkRequest.php" />
@@ -608,16 +608,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="552" y="43" width="1309" height="829" extended-state="0" />
+    <frame x="487" y="46" width="1309" height="829" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977778" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17751004" sideWeight="0.49925262" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18072289" sideWeight="0.5052317" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17590362" sideWeight="0.671151" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17751004" sideWeight="0.490284" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18072289" sideWeight="0.48430493" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884902" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -712,6 +712,13 @@
         <state line="71" column="41" selection-start="2189" selection-end="2189" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="23" selection-start="2742" selection-end="2742" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/menus.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="170" column="4" selection-start="4648" selection-end="5182" vertical-scroll-proportion="0.0">
@@ -741,13 +748,6 @@
     <entry file="file://$PROJECT_DIR$/js/Shell.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="587" column="63" selection-start="18873" selection-end="18873" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Note.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="268" column="53" selection-start="8785" selection-end="8785" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -785,16 +785,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/js/Note.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="23" selection-start="2742" selection-end="2742" vertical-scroll-proportion="-10.576923">
+        <state line="261" column="33" selection-start="8494" selection-end="8494" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="789" column="1" selection-start="16833" selection-end="16833" vertical-scroll-proportion="0.7234042">
+        <state line="111" column="24" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.83469725">
           <folding />
         </state>
       </provider>
