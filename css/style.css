@@ -866,3 +866,20 @@ h1 {
     word-spacing: 3px;
     top: -8px;
 }
+
+/* Misc */
+
+::-moz-selection {
+ 	background-color: #EE6B14;
+ 	color: #fff;
+}
+
+::-webkit-selection {
+ 	background-color: #EE6B14;
+ 	color: #fff;
+}
+
+::selection {
+ 	background-color: #EE6B14;
+ 	color: #fff;
+}
