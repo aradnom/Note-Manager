@@ -264,6 +264,33 @@ Note.unarchive = function ( el ) {
     el.removeClass( 'archived' );
 }
 
+Note.sortByDate = function ( el ) {
+    var parent = el.getParent('.note-container');
+
+    // Get array of notes from parent
+    var notes = parent.getElements('.note');
+
+    // Sort asc or desc depending on element order
+    if ( Date.parse(notes[0].getElement('.title-date').get('text')) <
+        Date.parse(notes.getLast().getElement('.title-date').get('text')) ) {
+        // Sort desc
+        notes.sort( function ( first, second ) {
+            return first.getElement('.title-date').get('text') <= second.getElement('.title-date').get('text');
+        });
+    } else {
+        // Sort asc
+        notes.sort( function ( first, second ) {
+            return first.getElement('.title-date').get('text') > second.getElement('.title-date').get('text');
+        });
+    }
+
+    // Clear parent and reenter sorted notes
+    parent.erase( 'html' );
+    notes.each( function( note ) {
+        parent.grab( note );
+    });
+}
+
 // Will parse note text to add certain bits like url linking, that sort of thing
 Note.parse = function ( text ) {
     var urlRegex = /https?:\/\/(www.)?[^\s"']+/gi;

@@ -97,6 +97,13 @@ var Shell = new Class ({
             Shell.update();
         });
 
+        // Sort notes by date
+        this.element.addEvent( 'dblclick:relay(div.title-date)', function ( event, el ) {
+            // Works as a toggle, will sort asc if upper date is higher than lower or vice versa for desc
+            Note.sortByDate( el );
+            Shell.update();
+        });
+
         // Zone title rename
         this.element.addEvent( 'dblclick:relay(div.zone-title)', function ( event, el ) {
             that.renameElement( el );
