@@ -262,10 +262,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="134" column="1" selection-start="2141" selection-end="2141" vertical-scroll-proportion="0.0">
+            <state line="423" column="28" selection-start="8549" selection-end="8549" vertical-scroll-proportion="0.2487725">
               <folding />
             </state>
           </provider>
@@ -307,10 +307,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shell.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Shell.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/Shell.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="101" selection-start="2744" selection-end="2744" vertical-scroll-proportion="0.41736227">
+            <state line="137" column="52" selection-start="4817" selection-end="4817" vertical-scroll-proportion="-15.8">
               <folding />
             </state>
           </provider>
@@ -319,7 +319,7 @@
       <file leaf-file-name="Note.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/Note.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="261" column="33" selection-start="8494" selection-end="8494" vertical-scroll-proportion="0.0">
+            <state line="263" column="33" selection-start="8411" selection-end="8411" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -389,17 +389,17 @@
         <option value="$PROJECT_DIR$/inc/MongoMe.class.php" />
         <option value="$PROJECT_DIR$/js/menus.js" />
         <option value="$PROJECT_DIR$/inc/request.php" />
-        <option value="$PROJECT_DIR$/js/Note.js" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/Shell.js" />
+        <option value="$PROJECT_DIR$/js/Note.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="232" />
-    <option name="y" value="73" />
+    <option name="x" value="577" />
+    <option name="y" value="19" />
     <option name="width" value="1309" />
     <option name="height" value="829" />
   </component>
@@ -608,7 +608,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="232" y="73" width="1309" height="829" extended-state="0" />
+    <frame x="577" y="19" width="1309" height="829" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977778" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -745,13 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Note.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="261" column="33" selection-start="8494" selection-end="8494" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inc/defines_and_functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="36" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" />
@@ -785,16 +778,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/js/Shell.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="1" selection-start="2141" selection-end="2141" vertical-scroll-proportion="0.0">
+        <state line="137" column="52" selection-start="4817" selection-end="4817" vertical-scroll-proportion="-15.8">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Shell.js">
+    <entry file="file://$PROJECT_DIR$/js/Note.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="101" selection-start="2744" selection-end="2744" vertical-scroll-proportion="0.41736227">
+        <state line="263" column="33" selection-start="8411" selection-end="8411" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="423" column="28" selection-start="8549" selection-end="8549" vertical-scroll-proportion="0.2487725">
           <folding />
         </state>
       </provider>

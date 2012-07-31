@@ -288,7 +288,7 @@ h1 {
     width: 195px;
 }
 
-/* Note-related css */
+/* Note css */
 
 .note {
 	z-index: 1;
@@ -332,6 +332,10 @@ h1 {
     width: 11px;
     height: 11px;
     margin-left: 3px;
+}
+
+.archive-note {
+    background: url("../img/buttons/archive.png") no-repeat;
 }
 
 .new-subnote-button {
@@ -412,6 +416,57 @@ h1 {
     border-color: #EE6B14;
     font-family: YanoneKaffeesatzLight;
     font-size: 16px;
+}
+
+/* Archived note css */
+
+.archived.note {
+    margin: 3px 0px 0px 0px;
+}
+
+.archived .note-menu {
+    display: none;
+}
+
+.archived-menu {
+    position: absolute;
+    z-index: 4;
+    top: 2px;
+    right: -9px;
+}
+
+.archived-menu .button {
+    width: 6px;
+    height: 6px;
+}
+
+.archived-menu .unarchive-button {
+    background: url('../img/buttons/unarchive.png') no-repeat;
+}
+
+.archived .note-title {
+    height: 10px;
+    font-size: 8px;
+    top: 0px;
+    background: #888;
+    border: none;
+    left: 0px;
+}
+
+.archived .note-title .title-text {
+    margin-top: -1px;
+    margin-left: 2px;
+}
+
+.archived .title-date {
+    background: none;
+    left: -44px;
+    padding: 0px;
+    top: 0px;
+}
+
+.archived .text-container {
+    display: none;
 }
 
 /* Subnotes */

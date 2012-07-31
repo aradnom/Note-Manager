@@ -102,10 +102,18 @@ var Shell = new Class ({
             that.renameElement( el );
         });
 
-        // Remove notes
-        this.element.addEvent( 'click:relay(div.note-close-button)', function ( event, el ) {
-            that.removeNote( $(el.getParent('.note')) );
+        // Archive note
+        this.element.addEvent( 'click:relay(.archive-note)', function ( event, el ) {
+            Note.archive( el.getParent('.note') );
+            Shell.update();
+        });
 
+        // Add subnote from note
+        this.element.addEvent( 'click:relay(div.new-subnote-button)', function ( event, el ) {
+            var newSubnote = new Subnote( el.getParent('.note').getElement('.note-subnote-container'),
+                {
+                    text: "enter text"
+                });
             Shell.update();
         });
 
@@ -119,24 +127,21 @@ var Shell = new Class ({
             Note.moveNoteDown( el );
         });
 
-        // Add subnote from note
-        this.element.addEvent( 'click:relay(div.new-subnote-button)', function ( event, el ) {
-            var newSubnote = new Subnote( el.getParent('.note').getElement('.note-subnote-container'),
-                {
-                    text: "enter text"
-                });
+        // Remove note
+        this.element.addEvent( 'click:relay(div.note-close-button)', function ( event, el ) {
+            that.removeNote( $(el.getParent('.note')) );
+            Shell.update();
+        });
+
+        // Remove note
+        this.element.addEvent( 'click:relay(div.unarchive-button)', function ( event, el ) {
+            Note.unarchive( el.getParent('.note') );
             Shell.update();
         });
 
         // Note title rename
         this.element.addEvent( 'dblclick:relay(div.title-text)', function ( event, el ) {
             that.renameElement( el );
-        });
-
-        // Remove note
-        this.element.addEvent( 'click:relay(.note-close-button)', function ( event, el ) {
-            el.getParent('.note').dispose();
-            Shell.update();
         });
 
         // Note text contents
@@ -531,6 +536,9 @@ var Shell = new Class ({
 
                 newZone.getElement('.note-container').grab( newNote.getElement() );
 
+                if ( note.archived )
+                    Note.archive( newNote.getElement() );
+
                 // Remove empty note isn't empty
                 if ( note.subnotes.length > 0 || note.text != '' )
                     newNote.getElement().getElement( '.note-empty').dispose();
@@ -587,6 +595,7 @@ Shell.storeUserBookmarks = function () {
                 "title": note.getElement('.title-text').get('html'),
                 "text": note.getElement('.note-text').get('html'),
                 "date": note.getElement('.title-date').get('text'),
+                "archived" : note.hasClass('archived') ? true : false,
                 "subnotes": []
             });
 

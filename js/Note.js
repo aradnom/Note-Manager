@@ -43,6 +43,9 @@ var Note = new Class ({
             'class': 'note-menu'
         }).
             grab( new Element( 'div', {
+                'class': 'archive-note button'
+            })).
+            grab( new Element( 'div', {
                 'class': 'new-subnote-button button'
             })).
             grab( new Element( 'div', {
@@ -245,6 +248,20 @@ Note.moveNoteDown = function ( el ) {
         // Save the results
         Shell.update();
     }
+}
+
+Note.archive = function ( el ) {
+    el.addClass('archived');
+    el.getElement('.note-title').grab( new Element( 'div.archived-menu').grab(
+        new Element( 'div', {
+            class: 'unarchive-button button'
+        })
+    ));
+}
+
+Note.unarchive = function ( el ) {
+    el.getElement( '.archived-menu').dispose();
+    el.removeClass( 'archived' );
 }
 
 // Will parse note text to add certain bits like url linking, that sort of thing
