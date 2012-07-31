@@ -74,7 +74,7 @@ var Shell = new Class ({
         this.element.addEvent( 'click:relay(div.zone-add-note-button)', function ( event, el ) {
             var newNote = new Note( 'New Note' );
 
-            el.getParent( '.zone-header').getNext('.note-container').grab( newNote.getElement() );
+            el.getParent( '.zone-header').getNext('.note-container').grab( newNote.getElement(), 'top' );
             Shell.update();
         });
 
