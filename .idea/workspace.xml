@@ -253,15 +253,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="23" selection-start="2742" selection-end="2742" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -280,11 +271,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="request.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="request.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/request.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="4" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0">
+            <state line="50" column="33" selection-start="1737" selection-end="1737" vertical-scroll-proportion="0.19476268">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="9" selection-start="452" selection-end="493" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#6#159#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -310,16 +312,16 @@
       <file leaf-file-name="Shell.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/Shell.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="17" selection-start="4313" selection-end="4313" vertical-scroll-proportion="0.0">
+            <state line="628" column="99" selection-start="20602" selection-end="20602" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Note.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Note.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/Note.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="267" column="35" selection-start="8530" selection-end="8530" vertical-scroll-proportion="0.86378205">
+            <state line="248" column="23" selection-start="8047" selection-end="8047" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -383,23 +385,23 @@
         <option value="$PROJECT_DIR$/inc/auth.php" />
         <option value="$PROJECT_DIR$/js/Chain.js" />
         <option value="$PROJECT_DIR$/inc/defines_and_functions.php" />
-        <option value="$PROJECT_DIR$/test/index.php" />
         <option value="$PROJECT_DIR$/js/Subnote.js" />
         <option value="$PROJECT_DIR$/../wordpress_scratch/wp-content/themes/twentyeleven/functions.php" />
         <option value="$PROJECT_DIR$/inc/MongoMe.class.php" />
         <option value="$PROJECT_DIR$/js/menus.js" />
-        <option value="$PROJECT_DIR$/inc/request.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/js/Shell.js" />
         <option value="$PROJECT_DIR$/js/Note.js" />
+        <option value="$PROJECT_DIR$/js/Shell.js" />
+        <option value="$PROJECT_DIR$/test/index.php" />
+        <option value="$PROJECT_DIR$/inc/request.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="581" />
-    <option name="y" value="234" />
+    <option name="x" value="365" />
+    <option name="y" value="219" />
     <option name="width" value="1309" />
     <option name="height" value="829" />
   </component>
@@ -457,7 +459,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -608,7 +610,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="581" y="234" width="1309" height="829" extended-state="0" />
+    <frame x="365" y="219" width="1309" height="829" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977778" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -726,13 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/request.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="4" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inc/auth.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="7" selection-end="90" vertical-scroll-proportion="0.0" />
@@ -785,16 +780,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Shell.js">
+    <entry file="file://$PROJECT_DIR$/js/Note.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="17" selection-start="4313" selection-end="4313" vertical-scroll-proportion="0.0">
+        <state line="248" column="23" selection-start="8047" selection-end="8047" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Note.js">
+    <entry file="file://$PROJECT_DIR$/test/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="267" column="35" selection-start="8530" selection-end="8530" vertical-scroll-proportion="0.86378205">
+        <state line="17" column="9" selection-start="452" selection-end="493" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#6#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Shell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="628" column="99" selection-start="20602" selection-end="20602" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="33" selection-start="1737" selection-end="1737" vertical-scroll-proportion="0.19476268">
           <folding />
         </state>
       </provider>

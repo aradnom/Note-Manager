@@ -571,6 +571,10 @@ var Shell = new Class ({
 	}
 });
 
+// Static variables
+
+Shell.lastUpdate = null; // Contains time of last update for reference
+
 // Static functions
 
 Shell.storeUserBookmarks = function () {
@@ -582,6 +586,9 @@ Shell.storeUserBookmarks = function () {
 
                 if ( decoded.error )
                     Shell.setError( decoded.error );
+
+                if ( decoded.timestamp )
+                    Shell.lastUpdate = decoded.timestamp;
             }
         }
     });
@@ -618,7 +625,8 @@ Shell.storeUserBookmarks = function () {
 
     //console.log( "notes: " + JSON.encode(bookmarks) );
 
-    storeRequest.send( "bookmarks=" + JSON.encode(bookmarks) );
+    // Send bookmarks along with last timestamp to ensure last update was from this client
+    storeRequest.send( "bookmarks=" + JSON.encode(bookmarks) + "&lastupdate=" + Shell.lastUpdate );
 }
 
 // Returns nested list of bookmarks in div elements.  Level can be 1-2.
