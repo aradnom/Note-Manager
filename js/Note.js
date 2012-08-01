@@ -257,6 +257,7 @@ Note.archive = function ( el ) {
             class: 'unarchive-button button'
         })
     ));
+    el.getParent('.note-container').grab( el ); // Flip archived note to bottom
 }
 
 Note.unarchive = function ( el ) {
@@ -267,26 +268,38 @@ Note.unarchive = function ( el ) {
 Note.sortByDate = function ( el ) {
     var parent = el.getParent('.note-container');
 
-    // Get array of notes from parent
-    var notes = parent.getElements('.note');
+    // Get array of notes from parent, separating archived and not archived
+    var notes = parent.getElements('.note:not(.archived)');
+    var archived = parent.getElements('.archived');
+
+    var sortDesc = function ( first, second ) {
+        return first.getElement('.title-date').get('text') <= second.getElement('.title-date').get('text');
+    }
+
+    var sortAsc = function ( first, second ) {
+        return first.getElement('.title-date').get('text') > second.getElement('.title-date').get('text');
+    }
 
     // Sort asc or desc depending on element order
     if ( Date.parse(notes[0].getElement('.title-date').get('text')) <
         Date.parse(notes.getLast().getElement('.title-date').get('text')) ) {
         // Sort desc
-        notes.sort( function ( first, second ) {
-            return first.getElement('.title-date').get('text') <= second.getElement('.title-date').get('text');
-        });
+        notes.sort( sortDesc );
+        archived.sort( sortDesc )
     } else {
         // Sort asc
-        notes.sort( function ( first, second ) {
-            return first.getElement('.title-date').get('text') > second.getElement('.title-date').get('text');
-        });
+        notes.sort( sortAsc );
+        archived.sort( sortAsc )
     }
 
     // Clear parent and reenter sorted notes
     parent.erase( 'html' );
     notes.each( function( note ) {
+        parent.grab( note );
+    });
+
+    // Then archived notes
+    archived.each( function( note ) {
         parent.grab( note );
     });
 }
