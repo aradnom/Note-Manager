@@ -1,7 +1,8 @@
 ## paths
 
-design/**/*
-test/**/*
+design
+test
+.idea
 
 ## files
 
